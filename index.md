@@ -13,13 +13,20 @@ Aliens
   Hmm are you sure?! 
 </details>
 
-**Previous Presentations:** 
 
+**Previous Presentations:**   
 Mr OWL   
 Friday, Februrary 4th, 2022, x P.M   
-Aliens 
+Aliens
+<details>
+  <summary>Abstract</summary>
+  Maybe. 
+</details>
 
 Mr LION      
 Friday, Februrary 4th, 2022, x P.M   
 Aliens  
-
+<details>
+  <summary>Abstract</summary>
+  Oh no. 
+</details>
