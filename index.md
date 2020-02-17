@@ -8,17 +8,17 @@ description:
 Mr Fox  
 Friday, Februrary 4th, 2022, x P.M   
 Aliens
-<details>
+<details>  
   <summary>Abstract</summary>
   Hmm are you sure?! 
-</details>
+</details>  
 
 
 **Previous Presentations:**   
 Mr OWL   
 Friday, Februrary 4th, 2022, x P.M   
 Aliens
-<details>
+<details>  
   <summary>Abstract</summary>
   Maybe. 
 </details> 
@@ -27,7 +27,7 @@ Aliens
 Mr LION      
 Friday, Februrary 4th, 2022, x P.M   
 Aliens  
-<details>
+<details>  
   <summary>Abstract</summary>
   Oh no. 
-</details>
+</details>  
