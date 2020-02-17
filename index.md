@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Web
-tagline: Blah
-description: blah
+title: Theoretical Computer Science Reading Group 
+tagline: 
+description: 
 ---
 
