@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theoretical Computer Science Reading Group 
+title: CS Theory Reading Group 
 tagline: 
 description: 
 ---
