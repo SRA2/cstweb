@@ -12,7 +12,7 @@ Aliens
   <summary>Abstract</summary>
   Hmm are you sure?! 
 </details>  
-               
+&NewLine;               
                
 **Previous Presentations:**   
 Mr OWL   
@@ -22,7 +22,7 @@ Aliens
   <summary>Abstract</summary>
   Maybe. 
 </details> 
-                                                                             
+&NewLine;                                                                             
                                                       
 Mr LION      
 Friday, Februrary 4th, 2022, x P.M   
