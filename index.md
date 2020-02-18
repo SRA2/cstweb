@@ -4,7 +4,7 @@ title: CS Theory Reading Group
 tagline: 
 description: 
 ---
-#### **Upcoming Presentations:**  
+**Upcoming Presentations:**  
 Mr Fox  
 Friday, Februrary 4th, 2022, x P.M   
 Aliens
@@ -14,7 +14,7 @@ Aliens
 </details>     
 <p>&nbsp;</p>
 
-#### **Previous Presentations:**   
+**Previous Presentations:**   
 
 Mr OWL   
 Friday, Februrary 4th, 2022, x P.M   
