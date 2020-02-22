@@ -10,8 +10,9 @@ Friday, Februrary 4th, 2022, x P.M
 Aliens
 <details>  
   <summary>Details </summary>  
+  
   **Title**
-  Umm! 
+  *Umm!* 
 </details>     
 <p>&nbsp;</p>
 
@@ -21,6 +22,7 @@ Friday, Februrary 14th, 2022, x P.M
 Aliens
 <details>  
   <summary>Details</summary>
+  
  **Title:** yuu 
   
  **Abstract:** ummmm
@@ -34,7 +36,9 @@ Friday, Februrary 7th, 2020, 2 P.M
 Aliens
 <details>  
   <summary>Abstract</summary>
- **Title:** hhhh  
+  
+  **Title:** TTT   
+  
   
   
  </details>   
@@ -45,6 +49,7 @@ Friday, January 31st, 2020, 2 P.M
 Aliens
 <details>  
   <summary>Details</summary>
+  
   **Title:** TTT   
   
   **Abstract:** blahhh.
