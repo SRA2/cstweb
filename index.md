@@ -48,9 +48,9 @@ Mr OWL
 Friday, January 31st, 2020, 2 P.M   
 Aliens
 <details>  
-  <summary>Details</summary>
+&nbsp;<summary>Details</summary>&nbsp;
   
-  **Title:** TTTU   
+**Title:** TTTU   
   
-  **Abstract:** blahhh.
-</details>  
+ **Abstract:** blahhh.
+&nbsp;</details>  
