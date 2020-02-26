@@ -8,13 +8,13 @@ description:
 Mr Fox  
 Friday, Februrary 4th, 2022, x P.M   
 Aliens
-<details>  
-  <summary>Details </summary>  
-  
-  **Title**
-  *Umm!* 
-</details>     
-<p>&nbsp;</p>
+<details>
+ <summary>Summary</summary>
+
+```js
+const x = 1
+```
+</details>
 
 **Previous Presentations:**   
 Mr LION   
@@ -53,4 +53,33 @@ Aliens
 _Title:_ TTTUC 
   
  **Abstract:** blahhh.
-&nbsp;</details>  
+&nbsp;</details> 
+
+
+<details>
+  <summary>stuff with *mark* **down**</summary>
+  <p>
+<!-- the above p cannot start right at the beginning of the line and is mandatory for everything else to work -->
+    
+##*formatted* **heading** with [a](link)
+```java
+code block
+```
+
+  <details>
+    <summary><small>nested</small> stuff</summary><p>
+<!-- alternative placement of p shown above -->
+
+* list
+* with
+
+ 1. nested
+ 1. items
+
+    ```java
+    // including code
+    ```
+ 1. blocks
+
+  </p></details>
+</p></details>
