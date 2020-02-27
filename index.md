@@ -5,7 +5,8 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 28/2/2020: Irem Ergun,**Title:** Tight upper and lower bounds for leakage-resilient, locally decodable and updatable non-malleable codes, Location: WCH 203, 2-3 PM
+* 28/2/2020: Irem Ergun,**Title:** Tight upper and lower bounds for leakage-resilient, locally decodable and updatable non-malleable codes  
+Location: WCH 203, 2-3 PM
 
 
 **Previous Presentations:**   
