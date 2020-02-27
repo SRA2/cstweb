@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 28/2/2020: Irem Argun,**Title:** TBD
+* 28/2/2020: Irem Ergun,**Title:** TBD
 
 
 **Previous Presentations:**   
