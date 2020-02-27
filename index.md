@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 28/2/2020: Irem Ergun,**Title:** TBD
+* 28/2/2020: Irem Ergun,**Title:** TBD, Location: WCH 203, 2-3 PM
 
 
 **Previous Presentations:**   
