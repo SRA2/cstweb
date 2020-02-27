@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 28/2/2020: Irem Ergun,**Title:** Bounds on leakage-resilient, locally decodable non-malleable codes,**Location**: WCH 203, 2-3 PM
+* 28/2/2020: Irem Ergun,**Title:** Bounds on leakage-resilient, locally decodable non-malleable codes, **Location**: WCH 203, 2-3 PM
 
 
 **Previous Presentations:**   
