@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 6/3/2020: Yugarshi Shashwat,**Title:** TBD, **Location**: WCH 203, 2-3 PM
+* 6/3/2020: Yugarshi Shashwat,**Title:** TBD, **Location**: Bourns 171, 2-3 PM
 
 
 **Previous Presentations:**
