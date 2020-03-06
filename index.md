@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 6/3/2020: Yugarshi Shashwat,**Title:** Grover's search algorithm [[Link](https://en.wikipedia.org/wiki/Grover%27s_algorithm)], **Location**: Bourns 171, 2-3 PM 
+* 6/3/2020: Amey Bhangale,**Title:** Hardness Magnification for all Sparse NP Languages[[Link](https://eccc.weizmann.ac.il/report/2019/118/)], **Location**: Bourns 171, 2-3 PM 
 
 
 **Previous Presentations:**
