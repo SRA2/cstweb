@@ -5,10 +5,11 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 6/3/2020: Amey Bhangale,**Title:** Hardness Magnification for all Sparse NP Languages[[Link](https://eccc.weizmann.ac.il/report/2019/118/)], **Location**: Bourns 171, 2-3 PM 
+* 13/3/2020: TBA,**Title:** TBA, **Location**: WCH 315, 2-3 PM 
 
 
 **Previous Presentations:**
+* 6/3/2020: Amey Bhangale,**Title:** Hardness Magnification for all Sparse NP Languages[[Link](https://eccc.weizmann.ac.il/report/2019/118/)].  
 * 2/28/2020: Irem Ergun, **Title:** Bounds on Leakage-resilient, Locally Decodable Non-malleable codes.[[Link](https://eprint.iacr.org/2017/015)].  
 * 2/21/2020: Kevin P. Costello, **Title:** Boolean function analysis and Sensitivity conjecture(theorem).[[Link 1](https://arxiv.org/abs/1907.00847), [Link 2](https://www.cs.stanford.edu/~knuth/papers/huang.pdf)].   
 * 2/14/2020: Sourya Roy, **Title:** Locally Testable Non-malleable Codes.[[Link](https://eccc.weizmann.ac.il/report/2019/117/)].  
