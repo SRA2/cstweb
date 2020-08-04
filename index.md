@@ -5,9 +5,10 @@ tagline:
 description: 
 ---
 **Upcoming Presentations:**  
-* 2/8/2020: TBA,**Title:** TBA
+* 10/8/2020: Silas Richelson,**Title:** Epsilon Balanced Codes.
 
 **Previous Presentations:**
+* 2/8/2020: Sourya Roy,**Title:** LDPC Codes Achieve List Decoding Capacity[[Link](https://arxiv.org/pdf/1909.06430.pdf)].  
 * 27/7/2020: Amey Bhangale,**Title:** Rigid Matrices From Rectangular PCPs[[Link](https://eccc.weizmann.ac.il/report/2020/075/)].  
 * 6/3/2020: Amey Bhangale,**Title:** Hardness Magnification for all Sparse NP Languages[[Link](https://eccc.weizmann.ac.il/report/2019/118/)].  
 * 2/28/2020: Irem Ergun, **Title:** Bounds on Leakage-resilient, Locally Decodable Non-malleable codes.[[Link](https://eprint.iacr.org/2017/015)].  
